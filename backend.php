@@ -8,9 +8,9 @@ class database
     function connection()
     {
         $host = '127.0.0.1'; //HOST NAME.
-        $db_name = 'shopbd'; //Database Name
-        $db_username = 'new_app'; //Database Username
-        $db_password = '4953133773dom'; //Database Password
+        $db_name = '*****'; //Database Name
+        $db_username = '*****'; //Database Username
+        $db_password = '*******; //Database Password
 
         try
         {
